@@ -29,10 +29,8 @@ Both pathways are encoded independently and fused via adaptive gating before cla
 
 ## Repository Structure   
 BiST-Former/   
-│   
-├── dataset.py # HMS dataset loader and STFT preprocessing   
-├── models.py # BiST-Former architecture     
-├── train.py # Training and validation loop   
+│    
+├── BISTFormer.py  
 ├── config.py # Hyperparameters and configuration   
 ├── requirements.txt # Python dependencies   
 └── README.md   
